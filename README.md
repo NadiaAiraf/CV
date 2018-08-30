@@ -1,50 +1,53 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Acadmey in September 2018, learning the fundementals of becoming a software developer.
+
+Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
 
 ## Skills
 
-#### This Skill
+#### Initiative
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Whilst working as an accounts assistant many tasks performed were done manually on Excel. I knew there had to be a better way which was how I discovered Excel's programming language VBA. Starting off with some very humble ```for``` loops I taught myself to use this language, quickly reducing the time spent on long processes and increasing the efficiency of the office dramatically.
 
-- Experience
-- Achievements
-- Evidence
+#### Analytical thinker
 
-#### Another Skill
+In my previous role I produced month end accounts and analysed the data from these reports to communicate to clients about the position of their business and generate plans for growth.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+[Will add to this as course progresses]
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy August 2018 - December 2018
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+A 16 week intensive programming bootcamp focusing on:
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- fundamental programming techniques
+- object-oriented programming
+- teamwork within projects
+- Ruby, Rspec (so far)
 
-#### Your University / College (start_date to end_date)
+#### University of Bath October 2010 - July 2013
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+BSc Mathematics
 
-#### Any other qualifications
+#### St. Crispins School 6th form October 2008 - July 2010
+
+A-Levels: Maths, Further Maths, Physics, History & Critical Thinking
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Solutions 4 Caterers Ltd (Farnborough, Hampshire)** May 2016 - August 2018
+*accounts assistant*
+
+**Clancy Consulting ltd** (November 2015 - April 2016)   
+*office administrator*  
+
+**Ski Total** November 2013 - May 2015
+*Chalet host*
+
+## Hobbies and Interests
+
+**Skiing **- I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK.
+**Tennis **- Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.
+**Emergency first aider at work**- had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
