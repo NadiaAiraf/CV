@@ -1,4 +1,4 @@
-## Your Name
+## Aidan Faria
 
 Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Acadmey in September 2018, learning the fundementals of becoming a software developer.
 
@@ -37,17 +37,20 @@ A-Levels: Maths, Further Maths, Physics, History & Critical Thinking
 
 ## Experience
 
-**Solutions 4 Caterers Ltd (Farnborough, Hampshire)** May 2016 - August 2018
+**Solutions 4 Caterers Ltd (Farnborough, Hampshire)** (May 2016 - August 2018)
 *accounts assistant*
 
 **Clancy Consulting ltd** (November 2015 - April 2016)   
 *office administrator*  
 
-**Ski Total** November 2013 - May 2015
+**Ski Total** (November 2013 - May 2015)
 *Chalet host*
 
 ## Hobbies and Interests
 
-**Skiing **- I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK.
-**Tennis **- Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.
-**Emergency first aider at work**- had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
+
+**Skiing ** - I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK.
+
+**Tennis ** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.
+
+**Emergency first aider at work** - had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
