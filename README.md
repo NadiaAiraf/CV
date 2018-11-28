@@ -7,7 +7,7 @@ Throughout this course I'm going to be creating several challenging projects, le
 ## Projects
 
 | Project | Description | Tech stack |
-| :--- | :---: | ---: |
+| :---------- | :---: | ---: |
 | [Robot Face Pong](https://github.com/JonathanAndrews/robot_pong) | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
 | Acebook | Description | Technology used |
 | Project | Description | Technology used |
