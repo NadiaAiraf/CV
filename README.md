@@ -1,10 +1,12 @@
 ## Aidan Faria
 
+| [Projects][3] | [Skills][4] | [Education][5] | [Experience][6] | [Hobbies][7] |
+
 Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Academy in September 2018, learning the fundamentals of becoming a software developer.
 
 Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
 
-## Projects & Code
+## Projects
 
 | Project | Description | Tech stack |
 | :--- | :------------: | ---: |
@@ -55,7 +57,7 @@ A-Levels: Maths(A*), Further Maths(A*), Physics(B), History(C) & Critical Thinki
 **Ski Total** (November 2013 - May 2015)<br>
 *Chalet host*
 
-## Hobbies and Interests
+## Hobbies
 
 - **Skiing** - I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK<br>
 - **Tennis** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it<br>
@@ -64,3 +66,8 @@ A-Levels: Maths(A*), Further Maths(A*), Physics(B), History(C) & Critical Thinki
 
 [1]: https://github.com/JonathanAndrews/robot_pong
 [2]: https://github.com/NadiaAiraf/acebook-rails-the-spartans
+[3]: https://github.com/NadiaAiraf/CV/#Projects
+[4]: https://github.com/NadiaAiraf/CV/#Skills
+[5]: https://github.com/NadiaAiraf/CV/#Education
+[6]: https://github.com/NadiaAiraf/CV/#Experience
+[7]: https://github.com/NadiaAiraf/CV/#Hobbies
