@@ -57,10 +57,10 @@ A-Levels: Maths(A*), Further Maths(A*), Physics(B), History(C) & Critical Thinki
 
 ## Hobbies and Interests
 
-**Skiing** - I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK.<br>
-**Tennis** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.<br>
-**Emergency first aider at work** - had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.<br>
-**Makers Academy table tennis Champion**
+- **Skiing** - I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK<br>
+- **Tennis** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it<br>
+- **Emergency first aider at work** - had the opportunity to take a St. Johns Ambulance course, I think it's something every adult should know<br>
+- **Makers Academy table tennis Champion**
 
 [1]: https://github.com/JonathanAndrews/robot_pong
 [2]: https://github.com/NadiaAiraf/acebook-rails-the-spartans
