@@ -4,14 +4,13 @@ Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I tho
 
 Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
 
-## Projects
+## Projects & Code
 
 | Project | Description | Tech stack |
-| ---------- | :------------: | ---: |
-| [Robot Face Pong](https://github.com/JonathanAndrews/robot_pong) | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
+| :--- | :------------: | ---: |
+| [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
 | Acebook | Description | Technology used |
 | Project | Description | Technology used |
-| <img width=200/> | <img width=500/> | <img width=200/> |
 
 ## Skills
 
@@ -63,3 +62,5 @@ A-Levels: Maths, Further Maths, Physics, History & Critical Thinking
 **Tennis ** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.
 
 **Emergency first aider at work** - had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
+
+[1]: https://github.com/JonathanAndrews/robot_pong
