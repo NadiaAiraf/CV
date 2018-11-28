@@ -9,6 +9,8 @@ Throughout this course I'm going to be creating several challenging projects, le
 | Project | Description | Tech stack |
 | :--- | :------------: | ---: |
 | [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
+| [Acebook][2] | A social media site where users can follow each other, post comments and like each others posts. | Ruby on Rails, Heroku/AWS |
+| [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
 
 ## Skills
 
@@ -62,3 +64,4 @@ A-Levels: Maths, Further Maths, Physics, History & Critical Thinking
 **Emergency first aider at work** - had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
 
 [1]: https://github.com/JonathanAndrews/robot_pong
+[2]: https://github.com/NadiaAiraf/acebook-rails-the-spartans
