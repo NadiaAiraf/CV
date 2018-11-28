@@ -4,6 +4,14 @@ Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I tho
 
 Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
 
+## Projects
+
+| Project | Description | Tech stack |
+| :--- | :---: | ---: |
+| Robot Face Pong | A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
+| Acebook | Description | Technology used |
+| Project | Description | Technology used |
+
 ## Skills
 
 #### Initiative
