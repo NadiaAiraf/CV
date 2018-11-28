@@ -46,13 +46,13 @@ A-Levels: Maths(A*), Further Maths(A*), Physics(B), History(C) & Critical Thinki
 
 ## Experience
 
-**Solutions 4 Caterers Ltd (Farnborough, Hampshire)** (May 2016 - August 2018)
+**Solutions 4 Caterers Ltd (Farnborough, Hampshire)** (May 2016 - August 2018)<br>
 *accounts assistant*
 
-**Clancy Consulting ltd** (November 2015 - April 2016)   
+**Clancy Consulting ltd** (November 2015 - April 2016)<br>
 *office administrator*  
 
-**Ski Total** (November 2013 - May 2015)
+**Ski Total** (November 2013 - May 2015)<br>
 *Chalet host*
 
 ## Hobbies and Interests
