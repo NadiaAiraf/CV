@@ -1,6 +1,6 @@
 ## Aidan Faria
 
-Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Acadmey in September 2018, learning the fundementals of becoming a software developer.
+Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Academy in September 2018, learning the fundamentals of becoming a software developer.
 
 Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
 
@@ -10,7 +10,6 @@ Throughout this course I'm going to be creating several challenging projects, le
 | :--- | :------------: | ---: |
 | [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
 | [Acebook][2] | A social media site where users can follow each other, post comments and like each others posts. | Ruby on Rails, Heroku/AWS |
-| [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learns how to play the 70s classic game Pong | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS |
 
 ## Skills
 
@@ -20,9 +19,11 @@ Whilst working as an accounts assistant many tasks performed were done manually 
 
 #### Analytical thinker
 
-In my previous role I produced month end accounts and analysed the data from these reports to communicate to clients about the position of their business and generate plans for growth.
+In my previous role I produced month end accounts and analysed the data from these reports to communicate to clients about the position of their business and generate plans for growth. This needed a high attention to detail and an ability to quickly understand how pieces of data linked together.
 
-[Will add to this as course progresses]
+#### Fast Learner
+
+I'm able to pick up new languages, technologies and ideas very quickly. My final project was building a neural network, a concept completely new to me. This was done in just 2 weeks using Python and the TensorFlow package with no prior experience of either.
 
 ## Education
 
@@ -56,12 +57,10 @@ A-Levels: Maths, Further Maths, Physics, History & Critical Thinking
 
 ## Hobbies and Interests
 
-
 **Skiing** - I was Vice President of the Bath Snowsports club at university. I still volunteer for Kings ski club which runs dryslope races throughout the UK.
-
 **Tennis** - Qualified tennis coach and enthusiastic player. Feel free to play me if you're up to it.
-
 **Emergency first aider at work** - had the opportunity to take this St.Johns Ambulance course, I think it's something every adult should know.
+**Makers Academy table tennis Champion**
 
 [1]: https://github.com/JonathanAndrews/robot_pong
 [2]: https://github.com/NadiaAiraf/acebook-rails-the-spartans
