@@ -4,7 +4,7 @@
 
 Having worked in accounts for 2+ years and dabbling with Excel VBA scripts I thought it was time to get serious. Being able to create a project from scratch and see it come to life is why becoming a developer appealed to me. With this in mind I started studying with Makers Academy in September 2018, learning the fundamentals of becoming a software developer.
 
-Throughout this course I'm going to be creating several challenging projects, learning best coding practices and continually working of my self development. The next logical step for me to continue this journey is to join an inventive team of developers where I can begin to use these skills and push myself even further.
+Throughout the Makers Academy course I've taken on lots of different challenging projects, learnt best coding practices and continually worked on my self development. The next logical step to continue this journey is to join an inventive team of developers where I can begin to use these skills in a productive environment and push myself even further.
 
 ## Projects
 
