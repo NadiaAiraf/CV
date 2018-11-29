@@ -8,10 +8,10 @@ Throughout the Makers Academy course I've taken on lots of different challenging
 
 ## Projects
 
-| Project | Description | Tech stack |
-| :--- | :------------: | ---: |
-| [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learnt to play the 70s classic game Pong. Play against increasingly competitive versions. | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS, Jest |
-| [Acebook][2] | A social media site where users can follow each other, post comments and like each others posts. | Ruby on Rails, Heroku/AWS, RSpec/CapyBara, TravisCI |
+| Project | Description | Tech stack | Time Spent |
+| :--- | :------------: | ---: | ---: |
+| [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learnt to play the 70s classic game Pong. Play against increasingly competitive versions. | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS, Jest | 2 Weeks |
+| [Acebook][2] | A social media site where users can follow each other, post comments and like each others posts. | Ruby on Rails, Heroku/AWS, RSpec/CapyBara, TravisCI | 1 Week |
 
 ## Skills
 
