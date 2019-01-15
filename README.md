@@ -12,6 +12,7 @@ Throughout the Makers Academy course I've taken on lots of different challenging
 | :--- | :------------: | ---: | ---: |
 | [Robot Face Pong][1] | Final Project at Makers: A reinforcement learning AI that learnt to play the 70s classic game Pong. Play against increasingly competitive versions. | Python, TensorFlow, TensorFlowJS, Javascript, ExpressJS, Jest | 2 Weeks |
 | [Acebook][2] | A social media site where users can follow each other, post comments and like each others posts. | Ruby on Rails, Heroku/AWS, RSpec/CapyBara, TravisCI | 1 Week |
+| [Game of Life][8] | a simple version of Conway's game of life to get familiar with React | ReactJS | ~ 1 day |
 
 ## Skills
 
